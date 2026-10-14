@@ -1,4 +1,4 @@
-# Railway Reservation System 🚆
+# Railway Reservation System 
 
 ## About the Project
 I developed this Railway Reservation System project using C programming. The project focuses on applying Data Structures and Algorithms (DSA) to manage railway reservations and related operations.
